@@ -33,5 +33,5 @@ $matches = [
 ];
 
 for ($i = 0; $i < count($matches); $i++) {
-    echo $matches[$i]['team1'] . " - " . $mathches[$i]['team2'] . " | " . $matches[$i]['point_team_1'] . " - " . $matches[$i]['point_team_2'] . " <br /> ";
+    echo $matches[$i]['team1'] . " - " . $matches[$i]['team2'] . " | " . $matches[$i]['point_team_1'] . " - " . $matches[$i]['point_team_2'] . " <br /> ";
 }
